@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9",
-    "protobufjs": "6.11.2"
+    "protobufjs": "^6.11.2"
   }
 }
