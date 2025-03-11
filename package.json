@@ -1,0 +1,20 @@
+{
+  "name": "test-pnpm",
+  "version": "1.0.0",
+  "description": "using pnpm v6.32.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "protobufjs": "6.11.2"
+  }
+}
