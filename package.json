@@ -10,7 +10,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "packageManager": "pnpm@6.2",
+  "dependencies": {a
+    "react-scripts": "^3.4.1",
     "express": "^4.21.2"
   },
   "devDependencies": {
