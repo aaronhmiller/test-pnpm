@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@6.2",
-  "dependencies": {a
+  "dependencies": {
     "react-scripts": "^3.4.1",
     "express": "^4.21.2"
   },
